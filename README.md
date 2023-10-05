@@ -16,8 +16,7 @@ AI engineer
 ```
 
 Embedded System AI engineer
-Stone Meadow Management Ltd
-Kidderminster
+[Stone Meadow Management Ltd Kidderminster]
 ```
 -Involved in development of micro controller which controls traffic light like Modbus and Arduino
 -As core software developer, have developed AI engine which detects the pedestrian and vehicles using Deep learning running on embedded system, specifically Raspberry Pi 4B model
@@ -27,7 +26,7 @@ Kidderminster
 ```
 
 AI engineer
-Stone Meadow Management Ltd
+[MHY, Australia]
 ```
 -involved in stock prediction project and market analysis system
 -ith RNN and CNN, market trend pattern system developed
@@ -36,8 +35,7 @@ Stone Meadow Management Ltd
 ```
 
 Software Architect, and Backend Developer(Contract)
-The Modern Health Finance
-https://apply.modernhealthfinance.com, https://modernhealthfinance.com
+[The Modern Health Finance](https://apply.modernhealthfinance.com), [other link](https://modernhealthfinance.com)
 ```
 -Performed backend development to work on financial management page, an entirely API-driven Express application
 -Implemented new APIs using Microsoft architecture or redeveloping existing connections and functionality and designing new interfaces to interact with new APIs or functionality.
@@ -47,8 +45,7 @@ https://apply.modernhealthfinance.com, https://modernhealthfinance.com
 ```
 
 Backend developer (Contract)
-Vermont Public Radio
-https://memories.com.au/
+[Vermont Public Radio](https://memories.com.au/)
 ```
 -Designed database and backend structure from scratch
 -Worked closely with the CEO to refine and upgrade a variety of aspects of the business's primary application.
@@ -57,9 +54,7 @@ https://memories.com.au/
 ```
 
 Backend Developer
-VISORE LAB
-Paris
-https://memories.com.au/
+[VISORE LAB Paris](https://memories.com.au/)
 ```
 -Involved in 3D realization software development
 -Development of Motion tracking of facial expression in person. 3D head
@@ -70,8 +65,7 @@ https://memories.com.au/
 ```
 
 PHP Developer
-Schmeler
-ToKyo. TK
+[Schmeler ToKyo. TK]
 ```
 -Using tech stack of Symfony2 MVC Framework, PHP, MySQL, Git, ...
 -Managed the team of 5 people working on product catalogue module
@@ -81,9 +75,7 @@ ToKyo. TK
 ```
 
 Core Backend Developer
-Skigit inc
-Florida
-http://www.skigit.com/
+[Skigit inc Florida](http://www.skigit.com/)
 ```
 -As a core backend developer responsible for Database Design and implementation, mail system, video clips compression&post and rating system etc.
 -Deployment of Devops including AWS bit bucket S3 Docker.
@@ -92,7 +84,7 @@ http://www.skigit.com/
 ```
 
 Twilio Expert
-Tratta
+[Tratta]
 ```
 -Developed an app that leveraged Twilio's Voice API to accept payments by phone, a first for the debt collection industry.
 -Designed a complete telephone-based ( IVR/DTMF) user flow that allowed callers to securely access their accounts and then make and validate a payment toward their balance.
@@ -100,8 +92,7 @@ Tratta
 ```
 
 Twilio & Agora Expert
-GRAINY AS
-Norway
+[GRAINY AS Norway](https://dev.briefly.io)
 ```
 https://www.briefly.no/
 -Twilio & Agora Briefly video meeting site
