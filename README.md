@@ -5,9 +5,7 @@ Working with me is super easy and eﬃcient. I will take your requirements and p
 
 # Experience
 AI engineer
-TODD- AO Logs
-Angeles
-(https://absentiadx.com/)
+[TODD- AO Logs Angeles](https://absentiadx.com/)
 ```
 -Creation for Transcription in film industry with customized OpenAI Whisper.
 -Building NLP model for correction of Transcription result based on based on focused in each field
