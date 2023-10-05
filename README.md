@@ -3,7 +3,7 @@ I'm an AI & Back End Developer with 7+ years of experience in Deep learning, Mac
 My expertise ranges from signal processing and Computer vision, audio processing to Deep learning and Reinforcement learning. I worked in industrial software development.
 Working with me is super easy and eﬃcient. I will take your requirements and provide the best solutions possible with easy-to-understand and maintain code. It's important to me to deliver quality.
 
-#Experience
+# Experience
 AI engineer
 TODD- AO Logs
 Angeles
