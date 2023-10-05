@@ -4,7 +4,7 @@ My expertise ranges from signal processing and Computer vision, audio processing
 Working with me is super easy and eﬃcient. I will take your requirements and provide the best solutions possible with easy-to-understand and maintain code. It's important to me to deliver quality.
 
 # Experience
-AI engineer
+## AI engineer
 [TODD- AO Logs Angeles](https://absentiadx.com/)
 ```
 -Creation for Transcription in film industry with customized OpenAI Whisper.
@@ -15,7 +15,7 @@ AI engineer
 -Development of STT and TTS project using Delphi under offline and online
 ```
 
-Embedded System AI engineer
+## Embedded System AI engineer
 [Stone Meadow Management Ltd Kidderminster]
 ```
 -Involved in development of micro controller which controls traffic light like Modbus and Arduino
@@ -25,7 +25,7 @@ Embedded System AI engineer
 -Carry out quality assurance tests to discover errors and optimize usability.
 ```
 
-AI engineer
+## AI engineer
 [MHY, Australia]
 ```
 -involved in stock prediction project and market analysis system
@@ -34,7 +34,7 @@ AI engineer
 -Transfer learning based on existing models for each market.
 ```
 
-Software Architect, and Backend Developer(Contract)
+## Software Architect, and Backend Developer(Contract)
 [The Modern Health Finance](https://apply.modernhealthfinance.com), [other link](https://modernhealthfinance.com)
 ```
 -Performed backend development to work on financial management page, an entirely API-driven Express application
@@ -44,7 +44,7 @@ Software Architect, and Backend Developer(Contract)
 -Developed apps in NodeJS to interact with voice and SMS channels via Twilio and TwiML.
 ```
 
-Backend developer (Contract)
+## Backend developer (Contract)
 [Vermont Public Radio](https://memories.com.au/)
 ```
 -Designed database and backend structure from scratch
@@ -53,7 +53,7 @@ Backend developer (Contract)
 -Designed and developed new functionality including features that improved video streaming and chatting performance.
 ```
 
-Backend Developer
+## Backend Developer
 [VISORE LAB Paris](https://memories.com.au/)
 ```
 -Involved in 3D realization software development
@@ -64,7 +64,7 @@ Backend Developer
 -Weather forecasting model development and nowcasting AI chatbot
 ```
 
-PHP Developer
+## PHP Developer
 [Schmeler ToKyo. TK]
 ```
 -Using tech stack of Symfony2 MVC Framework, PHP, MySQL, Git, ...
@@ -74,7 +74,7 @@ PHP Developer
 -Achieved 100% on-time project delivery to meet the regulatory milestone
 ```
 
-Core Backend Developer
+## Core Backend Developer
 [Skigit inc Florida](http://www.skigit.com/)
 ```
 -As a core backend developer responsible for Database Design and implementation, mail system, video clips compression&post and rating system etc.
@@ -83,7 +83,7 @@ Core Backend Developer
 -Carry out quality tests to discover errors and optimize usability.
 ```
 
-Twilio Expert
+## Twilio Expert
 [Tratta]
 ```
 -Developed an app that leveraged Twilio's Voice API to accept payments by phone, a first for the debt collection industry.
@@ -91,7 +91,7 @@ Twilio Expert
 -Implemented best practices and coordinated with the CEO and a consultant to ensure PCI compliance.
 ```
 
-Twilio & Agora Expert
+## Twilio & Agora Expert
 [GRAINY AS Norway](https://dev.briefly.io)
 ```
 https://www.briefly.no/
