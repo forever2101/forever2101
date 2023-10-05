@@ -46,10 +46,12 @@ https://apply.modernhealthfinance.com, https://modernhealthfinance.com
 -Collaborated closely with the director of digital services and in-house developers.
 -Built app components in NodeJS to be consumed by VPR's mobile applications.
 -Developed apps in NodeJS to interact with voice and SMS channels via Twilio and TwiML.
+```
 
 Backend developer (Contract)
 Vermont Public Radio
 https://memories.com.au/
+```
 -Designed database and backend structure from scratch
 -Worked closely with the CEO to refine and upgrade a variety of aspects of the business's primary application.
 -Introduced and configured the application to use Git for both versioncontrol and deployment.
